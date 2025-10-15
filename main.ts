@@ -2,7 +2,7 @@
  *
  * Created by: Kyphong Pham
  * Created on: Oct 2025
- * This program find the distance using a sonar
+ * This program finds the distance using a sonar
 */
 
 let distanceToObject: number = 0
