@@ -5,9 +5,11 @@
  * This program finds the distance using a sonar
 */
 
+//varible
 let distanceToObject: number = 0
 
 //setup
+basic.clearScreen()
 basic.showIcon(IconNames.Happy)
 
 //find distance from sonar
